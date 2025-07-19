@@ -1,0 +1,11 @@
+Reg. No,Type,Model,Charging,Batt Cap,SOC,Max Power,Name,Mobile,Customer Type,Slot,Unit,Cost/Unit,Total,Disc,Parking,Final,Time(min)
+TN10AA0001,Two Wheeler,Ather 450X,AC slow,3,40,1.5,Arunesh,9876543210,Private Individual,1,1.8,6.5,11.7,0%,0,11.7,72
+TN22BB0002,Four Wheeler,Tata Nexon EV,DC Fast,30,30,15,Balaji,9988776655,Commercial Drivers,2,21,10.5,220.5,3%,1,209.895,84
+PY01CC0003,Three Wheeler,Piaggio Ape,AC Fast,8,50,3,Hariharan,9123456789,Service Vehicles,4,4,8,32,6%,2,33.92,80
+TN01DD0004,Bus,Ashok Leyland,DC Ultra Fast,100,25,45,Rajesh,9012345678,Private Individual,5,75,12.5,937.5,0%,1.5,967.5,100
+TN09EE0005,Vans,Force Traveller,AC Fast,60,60,25,Peer,9001122334,Commercial Drivers,6,24,11,264,3%,0.5,258.12,58
+TN45KK2993,Four Wheeler,Tesla,DC Fast,55,20,30,Koutham,9865321470,Private Individual,7,44,10.5,462,0%,1,463,88
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+TN01AA0101,Two Wheeler,TATA Tiago,DC Fast,24.0,10.0,25.0,XXXXX,9876543210,Commerical Drivers,1  Occupied,21.6,8.5,183.60000000000002,3.0%,3.0,238.092,52
