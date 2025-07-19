@@ -50,4 +50,16 @@ It uses **Java Swing** for the GUI and **file handling** for data persistence.
 
 ---
 
+## Author
+
+**Arunesh E**  
+Electrical and Electronics Engineering Student, SASTRA Deemed University  
+Exploring C++, Java, and Data Analytics  
+Interested in building real-world, logic-driven systems that solve practical problems  
+
+📧 2005arunesh@gmail.com  
+📱 +91 97898 34211  
+🔗 [LinkedIn](https://www.linkedin.com/in/arunesh33/)
+
+> *Made this project to learn, mess up, fix it, and learn again.*
 
